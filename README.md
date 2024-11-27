@@ -31,8 +31,8 @@ AtliQ Hardware's fiscal year starts in September and ends in August.
 ## Pivot Tables and Power Pivot
 - Expertise in creating and analyzing Pivot Tables and using Power Pivot for dynamic data summaries, complex calculations, and insightful visualizations. 📊📈
 
-## Sales and Financial Analytics
-- Proficient in using Excel's analytical tools to evaluate sales and financial data, track performance, and generate comprehensive reports to identify trends. 💵📊
+## SalesAnalytics
+- Proficient in using Excel's analytical tools to evaluate sales data, track performance, and generate comprehensive reports to identify trends. 💵📊
 
 ## Real-world Business Applications
 - Applied Excel skills in practical business scenarios, such as developing Project Priority Matrices for efficient resource management and using Scenario Planning to analyze potential outcomes from sales data. 🗂️🔮
