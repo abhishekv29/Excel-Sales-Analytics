@@ -4,16 +4,16 @@ This project aims to analyze the sales data of Atliq Hardwares, a company that s
 
 
 Reports created:
+  
+  +Customer Net Sales: Assesses customers net sales performance per year.
+  
+  +Division Sale: Comparison of market performance by year.
 
-  *Customer Net Sales: Assesses customers net sales performance per year.
+  +Market Performance: how market performs against its set target.
 
-  *Division Sale: Comparison of market performance by year.
+  +New Products: which new products are introduces and their net sales.
 
-  *Market Performance: how market performs against its set target.
+  +Top and bottom products: top 5 and bottom 5 products sold in terms of quantity
 
-  *New Products: which new products are introduces and their net sales.
-
-  *Top and bottom products: top 5 and bottom 5 products sold in terms of quantity
-
-  *Top 5 countries: net sales done by top 5 products
+  +Top 5 countries: net sales done by top 5 products
 
