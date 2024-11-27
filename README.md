@@ -37,5 +37,12 @@ AtliQ Hardware's fiscal year starts in September and ends in August.
 ## Real-world Business Applications
 - Applied Excel skills in practical business scenarios, such as developing Project Priority Matrices for efficient resource management and using Scenario Planning to analyze potential outcomes from sales data. 
 
+## 🛠️ Tools Used
+
+- **MS Excel**: The primary tool used for data analysis and report creation.
+- **Pivot Tables**: Used for summarizing, analyzing, exploring, and presenting data.
+- **Power Query**: Utilized for data connection and transformation.
+- **PowerPivot**: Enhanced data analysis and model creation.
+- **Data Modeling using DAX Formulas**: Implemented for creating complex data models and calculations.
 
   
